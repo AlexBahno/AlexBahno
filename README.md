@@ -1,4 +1,4 @@
-# iMovie
+# [iMovie](https://github.com/AlexBahno/iMovie)
 * iMovie - it`s app in which you can look for films;
 * Fully programmatically UI;
 * Using TMDB API for fetching all film`s data;
@@ -11,7 +11,7 @@
   <img src="https://github.com/AlexBahno/iMovie/assets/118211419/76b60bc7-e0fd-4082-a209-3fe5a1bf29e4" height="376.8" title="iMovie">
 </p>
 
-# ChatApp
+# [ChatApp](https://github.com/AlexBahno/ChatApp)
 * Using Firebase for store all data;
 * Upload Images to Firebase storage;
 * MVVM architecture;
@@ -19,7 +19,7 @@
 * Implemented Firebase Auth
 <img src="https://github.com/AlexBahno/ChatApp/assets/118211419/31bfa42e-4179-47e2-a9a5-d1ebe7e40f54" title="ChatApp">
 
-# iСalories
+# [iСalories](https://github.com/AlexBahno/icalories)
 * Using CoreData for store all data on phone
 * Using API for calculation calories 
 <p align="center">
