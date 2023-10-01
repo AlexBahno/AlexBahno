@@ -1,3 +1,18 @@
+# [Thoughts](https://github.com/AlexBahno/Thoughts)
+<p align="left"> <a href="https://github.com/AlexBahno/Thoughts"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+* Thoughts - it`s app, where you can post all of your thoughts;
+* Fully programmatically UI;
+* Using Firebase for storing all data;
+* Uploading images to FireStore
+* Implemented Firebase Auth
+
+<p align = "center">
+  <img src="https://github.com/AlexBahno/AlexBahno/assets/118211419/c6672106-e929-4226-85fc-a714478505e4" title="Thoughts">
+</p>
+
+
 # [iMovie](https://github.com/AlexBahno/iMovie)
 <p align="left"> <a href="https://github.com/AlexBahno/iMovie"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
