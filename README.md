@@ -1,3 +1,15 @@
+# [Real-Time Traffic Simulation with Java](https://github.com/AbKh1942/Java-Project)
+<p align="left"> <a href="https://github.com/AbKh1942/Java-Project"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+* Real-Time Traffic Simulation - it is an app, where you could create traffic simulation on your road network
+* Fully programmatically UI;
+* Using SUMO Libary;
+
+<p align = "center">
+  <img width="1112" height="712" alt="image" src="https://github.com/user-attachments/assets/d8ee2568-dcf9-4be8-aefb-3e9309e8ae4a" title="App`s screenshot"/>
+</p>
+
 # [Thoughts](https://github.com/AlexBahno/Thoughts)
 <p align="left"> <a href="https://github.com/AlexBahno/Thoughts"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
