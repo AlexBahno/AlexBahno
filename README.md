@@ -1,3 +1,19 @@
+# [Bookread](https://github.com/AlexBahno/Bookread)
+<p align="left"> <a href="https://github.com/AlexBahno/Bookread"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+* Bookread - an app for tracking and sharing your reading progress
+* Initially was written as a Bachelor's thesis (got 92 out of 100)
+* Used MVVM+Coordinator architecture pattern
+* SwiftUI + UIKit + Combine
+* Async/Await
+* Firebase was used as a backend
+* Other framework: Alamofire, Lottie
+
+<p align = "center">
+  <img width="886" height="885" alt="Untitled Diagram" src="https://github.com/user-attachments/assets/74271fc4-6b2f-4b92-8e9c-0f461d4604d0" />
+</p>
+
 # [Real-Time Traffic Simulation with Java](https://github.com/AbKh1942/Java-Project)
 <p align="left"> <a href="https://github.com/AbKh1942/Java-Project"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
